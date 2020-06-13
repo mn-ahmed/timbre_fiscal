@@ -20,7 +20,8 @@
     'data': [
         'views/invoice_view.xml',
         'views/product_view.xml',
-        'views/sale_view.xml'
+        'views/sale_view.xml',
+        'views/num_to_word_view.xml'
     ],
     'images': [
         
